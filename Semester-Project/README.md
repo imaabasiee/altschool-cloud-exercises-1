@@ -42,7 +42,7 @@ Update the Package Installer
 
 ![Laravel RealWorld Example App](images/update.png)
 
-This command will help to download & install Git directly at the AWS server. First, it will download the Git & then it will start installing on the server. It will take time.
+This command will help to download & install Git directly at the AWS server. First, it will download the Git & then it will start installing on the server.
 
     $ sudo apt install git -y
 
